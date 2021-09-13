@@ -1,6 +1,6 @@
 # Lessons on OOP from `BloodAndScience`
 
-![GitGithiub](/GitGihub/)
+![GitGithiub](https://github.com/BloodAndScience/Bleed-for-OOP/GitGithub)
 
 ## Lesson 0 : Intro
 
