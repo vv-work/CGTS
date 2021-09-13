@@ -1,6 +1,6 @@
 # Lessons on OOP from `BloodAndScience`
 
-![GitGithiub](GitGihub)
+![GitGithiub](/GitGihub/)
 
 ## Lesson 0 : Intro
 
