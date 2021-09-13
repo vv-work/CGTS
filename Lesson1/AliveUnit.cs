@@ -12,9 +12,7 @@ namespace BleedForOOP
 
         public void Regenerate()
         {
-            IAlive a = (IAlive)this;
-            
-            a.HP += _regenSpeed;
+            HP += _regenSpeed;
         }
         public void TakeDamage(int damage, Vector3 pointOfDamage)
         {

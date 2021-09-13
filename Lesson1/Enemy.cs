@@ -4,8 +4,7 @@
     {
         public Enemy()
         {
-            OnDamage += Move;
-
+            OnDamage += Move; 
         }
 
         private void Move()
