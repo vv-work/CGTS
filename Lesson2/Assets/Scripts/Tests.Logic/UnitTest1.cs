@@ -1,11 +1,9 @@
 using Logic;
-using NSubstitute;
 using NUnit.Framework;
+using NSubstitute;
 
-namespace Tests.Logic
+public class UnitTest1 
 {
-    public class Tests
-    {
         private IManager<string> _manager;
         private IData<string> _fakeData;
         private IPickable<string> _fakePickable;
@@ -28,5 +26,4 @@ namespace Tests.Logic
             _manager.Pick(_fakePickable);
             Assert.Fail();
         }
-    }
 }

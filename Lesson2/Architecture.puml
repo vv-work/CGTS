@@ -1,0 +1,43 @@
+@startuml
+interface IManager
+interface IData
+interface IPickable
+
+class Manager
+class Item
+
+IManager <|-- Manager
+IData o-- IManager
+IPickable o-- IManager
+IPickable <|-- Item
+
+UnityEngine o-- IManager
+UnityEngine o-- IData
+UnityEngine o-- IPickable 
+
+
+interface IManager{
+	event Action<string> OnItemPicked;
+	event Action<string> OnItemDroped;
+	event Action<IData> OnSpecsUpdate;
+
+	void Pick(IPickable item);
+	void Drop(int index);
+	IData GetSpecs();
+	IData[] Items {get;}
+
+}
+
+interface IPickable{
+	IData GetData();
+}
+
+interface IData<T>{
+	T Sptrite {get;}
+	string Name {get;}
+	int HP{get;}
+	int Armor{get;}
+	int Speed{get;}
+}
+
+@enduml
