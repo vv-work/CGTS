@@ -14,7 +14,8 @@ namespace BleedForOOP
 
         private Vector3 ShootPint()
         {
-                throw new System.NotImplementedException();
+                
+            throw new System.NotImplementedException();
         }
     }
 }

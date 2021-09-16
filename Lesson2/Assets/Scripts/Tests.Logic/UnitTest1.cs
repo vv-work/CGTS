@@ -14,8 +14,7 @@ public class UnitTest1
             _manager = new Manager<string>();
             _fakeData = NSubstitute.Substitute.For<IData<string>>();
             _fakePickable = NSubstitute.Substitute.For<IPickable<string>>();
-            _fakePickable.GetData().Returns(_fakeData);
-
+            _fakePickable.GetData().Returns(_fakeData); 
         }
 
         [Test]
