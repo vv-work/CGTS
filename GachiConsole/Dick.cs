@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GachiConsole
 {
-    class Dick
+    public class Dick
     {
         internal readonly DigSize DigSize;
 

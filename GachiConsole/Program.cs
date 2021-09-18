@@ -13,9 +13,9 @@ namespace GachiConsole
 
             string fakeMoan =  boi.Inject(myDick);
 
-            string anotherFakeMoan =  boi.Inject(myDick,9999);
-            string trueMoan = boi.Inject(new Dick(DigSize.Big), 5);
-            string mediumMoan = boi.Inject(new Dick(DigSize.Medium), 5);
+            string anotherFakeMoan =  boi.Inject(myDick,3);
+            string trueMoan = boi.Inject(new Dick(DigSize.Big), 3);
+            string mediumMoan = boi.Inject(new Dick(DigSize.Medium), 3);
 
             Console.WriteLine("Moans with Pickup owner \n");
             Console.WriteLine(fakeMoan);

@@ -5,8 +5,9 @@ using System.Threading;
 
 namespace GachiConsole
 {
-    interface IAnal
+    public interface IAnal
     {
+        event Action OnInjection;
         /// <summary>
         /// Way to insert dick into whole
         /// </summary>
@@ -25,16 +26,5 @@ namespace GachiConsole
         /// <param name="finger">how many finger we can take</param>
         /// <returns></returns>
         Money Fisting(int finger);
-    }
-
-
-    internal class Money
-    {
-        public Money(int value)
-        {
-            Value = value;
-        }
-
-        public int Value { get; private set; }
     }
 }
