@@ -7,9 +7,13 @@
 
 Here will be our lesson and important things to work as a team
 
+## Refs
+
+- [CheetSheets](./CheetSheets.md)
+
 ## Lessons
 
-- [Lesson 1](.\Lesson1.md)
+- [Lesson 1](./Lesson1.md)
 
 ## Core Tools
 
