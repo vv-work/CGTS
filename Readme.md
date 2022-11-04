@@ -7,6 +7,9 @@
 
 Here will be our lesson and important things to work as a team
 
+## Lessons
+
+- [Lesson 1](.\Lesson1.md)
 
 ## Core Tools
 
