@@ -1,10 +1,10 @@
-# Lesson1 
+# Lesson1
 
 Intro CLI
 
 ## Todo
 
 - [ ]CheetSheet Markdown
-- CheetSheet git 
-- SomeBook/Vidoes
-- Homwork SSH 
+- CheetSheet git
+- SomeBook/Videos
+- Homework SSH
