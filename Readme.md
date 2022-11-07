@@ -48,4 +48,30 @@ Here will be our lesson and important things to work as a team
 - ipython
 - jupyter
 
+## Tech Stack
+
+### Termainal
+
+![Microsoft Terminal](./res/MicrosoftTerminal.png)
+
+- [link](https://github.com/microsoft/terminal)
+
+### Powershelll
+
+- [link](https://github.com/PowerShell/PowerShell)
+
+### CLI
+
+- yt-dlp
+- ffmpeg
+- imageMagick
+- 7z
+
+### Markdown plugins
+
+- [Marp](https://marp.app/)
+- [Mermeid](https://mermaid-js.github.io/mermaid/#/)
+
+    k
+
 
