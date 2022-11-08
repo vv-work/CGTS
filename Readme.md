@@ -1,5 +1,21 @@
 # ComanG Tech Standards
 
+**❗Important to repeat**
+
+`git push -u origin yuriyA`
+`gh auth loging` - login
+
+## Todo
+
+- [x] Listen yuriy tutorial 
+- [ ] `git branch myLocalBranch` - creating local pranch
+- [ ] `git checkout myLocalBranch` - switching to that branch
+- [ ] `git pull --set-upstream origin yuriiA` - pulling from the origin to make it identical
+- [ ]  Edit `Readm.md` make checkboxes ❌ in **Todo**
+- [ ]  `git push` - push changes to remote
+
+
+
 **🔥👩🏻‍💻TERMINAL IS COOL😎**
 
 ![Terminal is cool](./res/TermC.webp)
