@@ -12,7 +12,7 @@
 - [ ] `git checkout myLocalBranch` - switching to that branch
 - [ ] `git pull --set-upstream origin yuriiA` - pulling from the origin to make it identical
 - [ ]  Edit `Readm.md` make checkboxes ❌ in **Todo**
-- [ ]  `git push` - push changes to remote
+- [ ]  `git push` - push changes to remote:
 
 
 
