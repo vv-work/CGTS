@@ -88,6 +88,3 @@ Here will be our lesson and important things to work as a team
 - [Marp](https://marp.app/)
 - [Mermeid](https://mermaid-js.github.io/mermaid/#/)
 
-    k
-
-
