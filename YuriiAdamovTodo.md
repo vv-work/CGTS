@@ -1,5 +1,6 @@
 # Yurii Adamov Todo
 
+
 ## Concpepts
 
 **A,B,C,D,E** - System of valuation taksk 
@@ -67,16 +68,8 @@
 	    - inform the flight attendant, cruise staff or a border services officer upon arrival. You may be referred to a Quarantine Officer for a health assessment and further direction.
 	    - avoid taking public transportation
 	    - check provincial or territorial requirements for what you need to do if you’re symptomatic or have tested positive for COVID-19
-  	
 
-- Brish colombia province
-- Medical comission
-- Ukrainina driving license
-- Social help for Ukraininas
-- SIN number and bank account opening
-- Incorporating myself.
-
-[x] Make a checklist "What ToDo after arivin in Canada". 30-11-22. 18-04.
+- [x] Make a checklist "What ToDo after arivin in Canada". 30-11-22. 18-04.
 >
     1. In the airport:
         - a. Ask about Emigration department (address, work schedule, phone number).
@@ -96,8 +89,14 @@
     4. At work:
         - a. Sign the work Contract as employee, with the best conditions.
         - b. Be in the office in time.
-        - c. Work hard and be Happy.
-
+        - c. Work hard and be Happy.  	
+>
+    - Brish colombia province
+    - Medical comission
+    - Ukrainina driving license
+    - Social help for Ukraininas
+    - SIN number and bank account opening
+    - Incorporating myself.
 
 - [x] A3 Check to ways ticket on [flights.google.com](https://flights.google.com) Vancouver<->Frankfurt for diffrent dates:
 >
@@ -116,8 +115,6 @@
 - [ ] B0 Register ComanG domain. For corp e-mails and e.t.c
 
 - [ ] B0 Build Azure DevOps Board
-
-
 
 
 
