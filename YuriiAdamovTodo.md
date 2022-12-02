@@ -1,3 +1,38 @@
+## Hello
+
+### My dears
+
+at least I found how to work with Fucking MD files. I spend at least 2 hours for that F Sh.
+However, I have to do some presentation with MD, so lets START !
+
+# Lets try to study Git !
+
+>## We shold begin with main simple question
+>## "What the GIT is ?"
+>### So, the GIT is:
+> - product developing controll verssion system
+> - the famous and the simpless way to develope something in team
+
+## Step 1
+
+## How does the Git looks like ?
+
+So, the view for understanging - to see it block-schema:
+
+![git block schema](./src/git-schema.png)
+
+So, as You can see on the picture - GIT can control the team, each team member, what the member did and when.
+
+[x] Ok now we know what the Git is.
+
+## Step 2
+
+### Git instalation on your PC
+
+Choose your Platform and do the same:
+
+
+
 # Yurii Adamov Todo
 
 
@@ -68,47 +103,54 @@
 	    - inform the flight attendant, cruise staff or a border services officer upon arrival. You may be referred to a Quarantine Officer for a health assessment and further direction.
 	    - avoid taking public transportation
 	    - check provincial or territorial requirements for what you need to do if you’re symptomatic or have tested positive for COVID-19
->  	
-	- Brish colombia province
-	- Medical comission
-	- Ukrainina driving license
-	- Social help for Ukraininas
-	- SIN number and bank account opening
-	- Incorporating myself.
+  	
 
-- [x] Make a checklist "What ToDo after arivin in Canada". 30-11-22. 18-04.
+- Brish colombia province
+- Medical comission
+- Ukrainina driving license
+- Social help for Ukraininas
+- SIN number and bank account opening
+- Incorporating myself.
+
+[x] Make a checklist "What ToDo after arivin in Canada". 30-11-22. 18-04.
 >
-1. In the airport:
+    1. In the airport:
         - a. Ask about Emigration department (address, work schedule, phone number).
         - b. Ask where you can buy mobile phone card.
         - c. Ask about Medical commission form and what clinic can give you the Medical certificate.
         - d. Ask about the medical assurance.
-	    - e. Take the Work Permit form.
-2. At home:
+        - e. Take the Work Permit form.
+    2. At home:
         - a. Find nearest products shop.
         - b. Find nearest Bus station.
         - c. Ask somebody about the dog (where are the walk places, where you can buy food for the dog, etc.).
-3. At the Emigration Department:
+    3. At the Emigration Department:
         - a. How can you receive first benefit (app. 3000 CAD) for the first time.
         - b. How should you report for the money (3a).
         - c. How you can get the SIN and Bank account.
         - d. How can you receive the Driver License (if you need it).
     4. At work:
-	- a. Sign the work Contract as employee, with the best conditions.
+        - a. Sign the work Contract as employee, with the best conditions.
         - b. Be in the office in time.
         - c. Work hard and be Happy.
-  
+
+
 - [x] A3 Check to ways ticket on [flights.google.com](https://flights.google.com) Vancouver<->Frankfurt for diffrent dates:
+>
 	- departure 12 December- 20 Decmber
 	- return 10 January - 30 January
 
 
 - [ ] B1 Chec YuriyP StandUp plans check there relalization in the end of the day
+
 - [ ] B2 Detaily work throguh 120 MUM with dates.
+
 - [ ] B3 Plan when and how we will realize Videos about XR, Prototypes on Github,
-    	- and how and when we will build web page and portfolio.
+    - and how and when we will build web page and portfolio.
+
 
 - [ ] B0 Register ComanG domain. For corp e-mails and e.t.c
+
 - [ ] B0 Build Azure DevOps Board
 
 
