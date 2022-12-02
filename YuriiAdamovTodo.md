@@ -92,10 +92,10 @@
         - c. Work hard and be Happy.  	
 >
     - Brish colombia province
-    - Medical comission
+- [x] Medical comission -> [click he to find the Medical commision instructions](https://canada-ukraine.notion.site/f58352accd3240ab96ae932418ad8e48)
     - Ukrainina driving license
     - Social help for Ukraininas
-    - SIN number and bank account opening
+- [x] SIN number and bank account opening -> [click he to find the SIN instructions](https://canada-ukraine.notion.site/SIN-bde2867d744d4ff6986828d27e76283a)
     - Incorporating myself.
 
 - [x] A3 Check to ways ticket on [flights.google.com](https://flights.google.com) Vancouver<->Frankfurt for diffrent dates:
