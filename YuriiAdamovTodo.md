@@ -53,12 +53,12 @@
 	- SIN number and bank account opening
 	- Incorporating myself.
 	- [x] Make a checklist "What ToDo after arivin in Canada". 30-11-22. 18-04.
-		1. In the airport:
-			a. Ask about Emigration department (address, work schedule, phone number).
-			b. Ask where you can buy mobile phone card.
-			c. Ask about Medical commission form and what clinic can give you the Medical certificate.
-			d. Ask about the medical assurance.
-			e. Take the Work Permit form.
+	1. In the airport:
+	a. Ask about Emigration department (address, work schedule, phone number).
+	b. Ask where you can buy mobile phone card.
+	c. Ask about Medical commission form and what clinic can give you the Medical certificate.
+	d. Ask about the medical assurance.
+	e. Take the Work Permit form.
 		2. At home:
 			a. Find nearest products shop.
 			b. Find nearest Bus station.
