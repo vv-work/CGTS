@@ -1,40 +1,4 @@
-## Hello
-
-### My dears
-
-at least I found how to work with Fucking MD files. I spend at least 2 hours for that F Sh.
-However, I have to do some presentation with MD, so lets START !
-
-# Lets try to study Git !
-
->## We shold begin with main simple question
->## "What the GIT is ?"
->### So, the GIT is:
-> - product developing controll verssion system
-> - the famous and the simpless way to develope something in team
-
-## Step 1
-
-## How does the Git looks like ?
-
-So, the view for understanging - to see it block-schema:
-
-![git block schema](./src/git-schema.png)
-
-So, as You can see on the picture - GIT can control the team, each team member, what the member did and when.
-
-[x] Ok now we know what the Git is.
-
-## Step 2
-
-### Git instalation on your PC
-
-Choose your Platform and do the same:
-
-
-
 # Yurii Adamov Todo
-
 
 ## Concpepts
 
